@@ -34,7 +34,7 @@ What's new:-
 
 * Revamped Welcome Screen- UI Improvement and Simpler Beginning.
 * 'Guide' Option was Removed from Welcome Screen and Added as a Mode 'g' in Main Menu.
-* Major UX improvement- Added Clear Screen and Clean Transition with Motivational Quotes.
+* Major UX improvement - Added Clear Screen and Clean Transition with Motivational Quotes.
 * Acceptance of Short-Form Inputs in Some Yes/No Prompts- y/n Accepted.
 * Terminology Improvement In Basic Geometry -> 2-D Shapes -> Quadrilaterals -> Rectangle.
 * Minor Bug Fixes.
@@ -108,7 +108,7 @@ Version v.0.3.1
 What's new:-
 
 * Minor Bug Fixes
-* Some Minor Changes
+* Some Minor UX Changes
 
 Release: 07-12-2025
 _________________________________________________________________________________________________
